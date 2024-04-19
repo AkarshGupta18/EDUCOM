@@ -9,7 +9,8 @@ Credits : https://techtree.iiitd.edu.in/viewDescription/filename?=DES102
 
 Screenshots of our App:
 
-![image](https://github.com/AkarshGupta18/EDUCOM/assets/108345620/0d4a2647-1f37-47e0-b900-9b8ba1c725f7)
+![image](https://github.com/AkarshGupta18/EDUCOM/assets/108345620/b8501a1d-5738-4a05-8a51-92f894d6a4cb)
+
 
 
 
