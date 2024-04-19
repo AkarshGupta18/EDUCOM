@@ -4,3 +4,6 @@ Are you facing problem in selecting a particular stream or facing problem while 
 Our app has community feature in which we provide the students to interact with the social group who are facing these challenges or has faced such issues, which will help them to face difficulties in a better way and share their ideas of how they did at their time.
 
 Link of the App : https://www.figma.com/file/17588lmcvLn2YBlG1hMYtw/Hifi?type=design&node-id=12-52&mode=design&t=YmUXLrOHqC9TXGYz-0
+
+Screenshots of our App:
+![image](https://github.com/AkarshGupta18/EDUCOM/assets/108345620/6530c6d5-8859-4fc9-973d-661cde907377)
